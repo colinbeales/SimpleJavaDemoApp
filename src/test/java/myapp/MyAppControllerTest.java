@@ -1,6 +1,6 @@
 package myapp;
 
-import myapp.ImageService;
+import myapp.MyAppController;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
